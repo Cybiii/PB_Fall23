@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Projects = () => {
   return (
     <section id="projects" className="py-16">
@@ -9,7 +7,7 @@ const Projects = () => {
         <div className="mb-8">
           <h3 className="text-2xl mb-4">Project Name</h3>
           <p>Description of the project.</p>
-        </div>
+        </div>  
         {/* End of block */}
       </div>
     </section>
