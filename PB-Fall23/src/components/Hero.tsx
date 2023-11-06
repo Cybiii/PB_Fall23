@@ -9,12 +9,13 @@ const Hero = () => {
   }
   
   return (
-    <section style={navStyle} id="hero" className="h-screen flex">
+    <section style={navStyle} id="hero" className="h-screen flex py-5">
       <div className="self-end ml-10 mb-10 text-white">
-        <h3 className='text-4xl'>General Meetings</h3>
-        <h3 className='text-4xl'>Coming up / Tuesdays 12:30 PM - 13:20 PM</h3>
+        <h3 className='text-5xl'>General Meetings</h3>
+        <h3 className='text-5xl'>Coming up / Tuesdays 12:30 PM - 13:20 PM</h3>
         <h1 className="text-9xl font-bold mb-4">
-          CODING WITH MESA
+          CODING
+          WITH MESAAAAA
         </h1>
       </div>
     </section>
